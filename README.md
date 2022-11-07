@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on cloud in Golang 
+- 🔭 I’m currently working on cloud written in Golang 
 - 🦀 I’m currently learning Rust
 - 📫 How to reach me: [telegram](https://t.me/fess932)
 
